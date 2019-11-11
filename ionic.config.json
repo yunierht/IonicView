@@ -1,5 +1,7 @@
 {
   "name": "IonicFlow",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
